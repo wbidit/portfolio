@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>  {/* Wrap your components in Router */}
+    <Router basename="/portfolio">  {/* Set the basename to the GitHub Pages path */}
       <div className="App">
         <Routes>
           {/* Define routes for homepage and resume page */}
