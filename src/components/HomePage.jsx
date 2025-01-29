@@ -11,7 +11,7 @@ const PortfolioHero = () => {
             writing-mode: vertical-rl;
             text-orientation: mixed;
             transform: rotate(180deg);
-            letter-spacing: 0.2em;
+            letter-spacing: 0.2Dem;
             text-transform: uppercase;
             transition: color 0.3s ease, transform 0.3s ease;
           }
